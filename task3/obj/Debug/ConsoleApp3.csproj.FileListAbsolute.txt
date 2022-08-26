@@ -1,0 +1,16 @@
+C:\Users\Наташенька\OneDrive\Рабочий стол\прога\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Наташенька\OneDrive\Рабочий стол\прога\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Наташенька\OneDrive\Рабочий стол\прога\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Наташенька\OneDrive\Рабочий стол\прога\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Наташенька\OneDrive\Рабочий стол\прога\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Наташенька\OneDrive\Рабочий стол\прога\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Наташенька\OneDrive\Рабочий стол\прога\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Наташенька\OneDrive\Рабочий стол\прога\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\Наташенька\OneDrive\Рабочий стол\прога\лаба1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Наташенька\OneDrive\Рабочий стол\прога\лаба1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Наташенька\OneDrive\Рабочий стол\прога\лаба1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Наташенька\OneDrive\Рабочий стол\прога\лаба1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Наташенька\OneDrive\Рабочий стол\прога\лаба1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Наташенька\OneDrive\Рабочий стол\прога\лаба1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Наташенька\OneDrive\Рабочий стол\прога\лаба1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Наташенька\OneDrive\Рабочий стол\прога\лаба1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
